@@ -1,9 +1,9 @@
-# 👩‍🔬 Fatoumata Kamissoko — Portfolio Bioinformatique
+# 👩‍🔬 Fatoumata Kamissoko — Portfolio Bioinformaticienne 
 
 Bienvenue sur mon portfolio !
 Je suis diplômée d’un Master en bioinformatique (Université Paris Cité) avec une double compétence en **biologie moléculaire** et **analyse de données omiques**.
 
-🎯 Mon objectif : contribuer à la recherche sur les mécanismes moléculaires, notamment l’**horloge circadienne chez les plantes** et leur adaptation aux stress environnementaux.
+🎯 Mon objectif : contribuer à la recherche sur les mécanismes moléculaires, notamment l’**horloge circadienne chez les plantes** et leur adaptation aux stress environnementaux lié au changement climatique.
 
 ---
 
@@ -21,25 +21,24 @@ Je suis diplômée d’un Master en bioinformatique (Université Paris Cité) av
 
 ## 🚀 Projets principaux
 
-### 🌿 Analyse circadienne des gènes du pois
+### 🌿 Analyse de l'expression circadienne des gènes du pois
 
 📍 INRAE Dijon (Stage de Master)
 
 **Objectif :**
-Étudier l’expression rythmique des gènes du pois afin de comprendre leur rôle dans la réponse aux stress abiotiques.
+Produire des connaissance de référence sur les rythmes circadiens chez le pois avec comme mission de caractériser le transcriptome rythmique du pois dans les feuilles et les graines et identifier les gènes régulateurs clés impliqués dans les réponses aux stress.
 
 **Réalisations :**
 
-* Développement d’un pipeline bioinformatique sous R
-* Analyse transcriptomique circadienne (MetaCycle, Limorhyde)
-* Enrichissement fonctionnel (GO, clusterProfiler)
-* Inférence de réseaux de régulation génique (dynGENIE3)
-* Visualisation avec Cytoscape
+* Développement d’un pipeline d'analyse pour les données transcriptomiques circadiennes sous R en utilisant des packages R comme Metacycle, LimoRyde 
+* Analyser la fonction biologiques des gènes rythimiques par un enrichissement fonctionnel (GO, clusterProfiler) 
+* Inférence de réseaux de régulation génique par dynGENIE3
+* Visualisation du réseaux de régulation génique avec Cytoscape
 
 **Résultats clés :**
 
 * Identification de gènes à expression rythmique sur 24h
-* Mise en évidence de fonctions liées à la photosynthèse et au stress
+* Mise en évidence de fonctions liées à la photosynthèse et à la réponse  stress
 * Identification de régulateurs potentiels
 
 🛠️ Outils : R, DESeq2, MetaCycle, Cytoscape, PLAZA
