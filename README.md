@@ -1,18 +1,21 @@
-# 👩‍🔬 Fatoumata Kamissoko — Portfolio Bioinformaticienne 
+# 👩‍🔬 Fatoumata Kamissoko — Portfolio Bioinformatique
 
 Bienvenue sur mon portfolio !
-Je suis diplômée d’un Master en bioinformatique (Université Paris Cité) avec une double compétence en **biologie moléculaire** et **analyse de données omiques**.
 
-🎯 Mon objectif : contribuer à la recherche sur les mécanismes moléculaires, notamment l’**horloge circadienne chez les plantes** et leur adaptation aux stress environnementaux lié au changement climatique.
+Je suis diplômée d’un **Master en bioinformatique (Université Paris Cité)** avec une double compétence en **biologie moléculaire** et **analyse de données omiques**.
+
+🎓 **Future doctorante à l’INRAE à partir de novembre 2026**.
+
+🎯 **Mon objectif :** contribuer à la recherche sur les mécanismes moléculaires, notamment l’**horloge circadienne chez les plantes** et leur adaptation aux **stress environnementaux liés au changement climatique**.
 
 ---
 
 ## 🔬 À propos de moi
 
-* 🎓 Master Bioinformatique – Ingénierie de Plateforme en Biologie
-* 🎓 Master Biochimie & Biologie Moléculaire – Sorbonne Université
-* 🧪 Expérience en bioinformatique, transcriptomique et réseaux de régulation
-* 🌱 Intérêt pour la biologie végétale et le changement climatique
+* 🎓 Master Bioinformatique – Ingénierie de Plateforme en Biologie (Université Paris Cité)
+* 🎓 Master Biochimie & Biologie Moléculaire (Sorbonne Université)
+* 🧪 Expérience en bioinformatique, transcriptomique et réseaux de régulation génique
+* 🌱 Intérêt marqué pour la biologie végétale, analyses des données et stress liés au changement climatique
 * 📍 Basée à Dijon, France
 
 🔗 LinkedIn : https://www.linkedin.com/in/fatoumata-kamissoko-685706275
@@ -21,35 +24,34 @@ Je suis diplômée d’un Master en bioinformatique (Université Paris Cité) av
 
 ## 🚀 Projets principaux
 
-### 🌿 Analyse de l'expression circadienne des gènes du pois
+### 🌿 Analyse de l’expression circadienne des gènes du pois
 
-📍 INRAE Dijon (Stage de Master)
+📍 INRAE Dijon — Stage de Master
 
 **Objectif :**
-Produire des connaissance de référence sur les rythmes circadiens chez le pois avec comme mission de caractériser le transcriptome rythmique du pois dans les feuilles et les graines et identifier les gènes régulateurs clés impliqués dans les réponses aux stress.
+Produire des connaissances de référence sur les rythmes circadiens chez le pois, en caractérisant le transcriptome rythmique dans les feuilles et les graines, et en identifiant les gènes régulateurs impliqués dans la réponse au stress.
 
 **Réalisations :**
 
-* Développement d’un pipeline d'analyse pour les données transcriptomiques circadiennes sous R en utilisant des packages R comme Metacycle, LimoRyde 
-* Analyser la fonction biologiques des gènes rythimiques par un enrichissement fonctionnel (GO, clusterProfiler) 
-* Inférence de réseaux de régulation génique par dynGENIE3
-* Visualisation du réseaux de régulation génique avec Cytoscape
+* Développement d’un pipeline d’analyse de données transcriptomiques circadiennes sous R (MetaCycle, LimoRhyde)
+* Analyse fonctionnelle des gènes rythmiques (GO, clusterProfiler)
+* Inférence de réseaux de régulation génique (dynGENIE3)
+* Visualisation des réseaux avec Cytoscape
 
 **Résultats clés :**
 
 * Identification de gènes à expression rythmique sur 24h
-* Mise en évidence de fonctions liées à la photosynthèse et à la réponse  stress
+* Mise en évidence de fonctions liées à la photosynthèse et à la réponse au stress
 * Identification de régulateurs potentiels
 
-🛠️ Outils : R, DESeq2, MetaCycle, Cytoscape, PLAZA
-
-👉 (Ajoute ici ton repo GitHub si disponible)
+🛠️ **Outils :** R, DESeq2, MetaCycle, Cytoscape, PLAZA
+🔗 https://github.com/Fatim1401/circadian-gene-expression-analysis
 
 ---
 
 ### 🧬 Caractérisation des dihydrouridine synthases (Dus)
 
-📍 IBPS – Sorbonne Université
+📍 IBPS — Sorbonne Université
 
 **Objectif :**
 Comprendre le rôle des enzymes Dus dans la modification des ARNt chez *Saccharomyces cerevisiae*.
@@ -66,8 +68,6 @@ Comprendre le rôle des enzymes Dus dans la modification des ARNt chez *Saccharo
 * Mise en évidence du rôle NADPH-dépendant
 * Identification de différentes localisations cellulaires
 
-👉 (Ajoute ici ton repo ou rapport)
-
 ---
 
 ### 🧪 Projet protéines structurales — Institut Pasteur
@@ -81,64 +81,52 @@ Comprendre le rôle des enzymes Dus dans la modification des ARNt chez *Saccharo
 * Modélisation structurale (AlphaFold, PyMOL)
 * Purification et analyse biochimique
 
-👉 (Ajoute repo ou notes si disponibles)
-
 ---
 
 ### 🧫 Projet R&D — Formulation de dentifrice naturel
 
 **Objectif :**
-Développer un produit à base d’ingrédients naturels avec validation scientifique.
+Développer un produit à base d’ingrédients naturels présentant une activité antibactérienne sur les bactéries de la cavité buccale.
 
 **Réalisations :**
 
 * Formulation et tests microbiologiques
-* Analyse physico-chimique (pH, viscosité…)
-* Business Model Canvas
-
-👉 (Optionnel : ajouter doc ou présentation)
-
----
-
-## 📄 Mémoires & rapports
-
-* 📘 Mémoire Master (Algérie) :
-  https://drive.google.com/file/d/18oFcUTNGQoEh2beLl7WSbK1qUe3oUNsJ/view
-
-* 📘 Mémoire IBPS – Sorbonne :
-  https://drive.google.com/file/d/1j5VIL7htXJiz26_6-U5uv7eiQ-OBpout/view
+* Analyses physico-chimiques (pH, viscosité…)
+* Élaboration d’un Business Model Canvas
 
 ---
 
 ## 🧰 Compétences
 
-### 🔬 Biologie & Omique
+### 🔬 Biologie moléculaire & Biochimie
 
-* Transcriptomique, génomique, protéomique
 * Clonage, PCR, qPCR, ddPCR
-* Analyse multi-omique
+* Production de protéines recombinantes
+* Tests d’activité enzymatique
 
 ### 💻 Bioinformatique
 
-* Analyse de données omiques
+* Analyse de données transcriptomiques
 * Réseaux de régulation génique
-* Visualisation de données
+* Analyse fonctionnelle et visualisation de données
 
 ### 🧑‍💻 Outils & langages
 
 * R, Linux
 * Cytoscape, PyMOL, AlphaFold
 * ImageJ
+* Inkscape
 
 ---
 
-## 📈 Ce que je recherche
+## 🤝 Collaboration
 
-Je suis actuellement à la recherche :
+Vous êtes :
 
-* 🎓 d’un doctorat en bioinformatique / biologie des systèmes
-* 🌱 projets liés à la biologie végétale et au stress environnemental
-* 🤝 collaborations en analyse de données biologiques
+* 🌱 Chercheur·se intéressé·e par la biologie végétale et les réponses au stress climatique
+* 🧬 Étudiant·e ou doctorant·e en bioinformatique ou analyse de données omiques
+
+👉 N’hésitez pas à me contacter pour échanger ou collaborer !
 
 ---
 
