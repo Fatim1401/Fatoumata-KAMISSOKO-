@@ -1,4 +1,3 @@
-# 👩‍🔬 Fatoumata Kamissoko — Portfolio Bioinformatique
 
 Bienvenue sur mon portfolio !
 
