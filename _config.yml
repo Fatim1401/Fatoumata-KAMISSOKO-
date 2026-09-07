@@ -1,21 +1,14 @@
 title: "Fatoumata Kamissoko"
-description: "Portfolio Bioinformatique – Transcriptomique, Analyse de données omiques, réseaux de régulation génique"
-show_downloads: false
-theme: jekyll-theme-type-on-strap
+description: "Portfolio Bioinformatique – Transcriptomique, Analyse de données omiques, reseaux de régulation génique"
+show_downloads: true
+theme: jekyll-theme-cayman
 lang: fr
-
 author:
   name: "Fatoumata Kamissoko"
   email: "fkamissoko584@gmail.com"
-  # pas de "avatar:" ici -> le thème affiche juste tes initiales/nom en texte
-
 social_links:
   linkedin: fatoumata-kamissoko-685706275
-  github: ton-username
-  email: fkamissoko584@gmail.com
-
-google_analytics:
-
+  github: Fatim1401
+google_analytics: 
 plugins:
   - jekyll-seo-tag
-  - jekyll-paginate
