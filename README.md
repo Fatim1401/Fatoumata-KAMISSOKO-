@@ -1,2 +1,153 @@
-# Fatoumata-KAMISSOKO-
-Portofolio Bioinformaticienne 
+# 👩‍🔬 Fatoumata Kamissoko — Portfolio Bioinformatique
+
+Bienvenue sur mon portfolio !
+Je suis diplômée d’un Master en bioinformatique (Université Paris Cité) avec une double compétence en **biologie moléculaire** et **analyse de données omiques**.
+
+🎯 Mon objectif : contribuer à la recherche sur les mécanismes moléculaires, notamment l’**horloge circadienne chez les plantes** et leur adaptation aux stress environnementaux.
+
+---
+
+## 🔬 À propos de moi
+
+* 🎓 Master Bioinformatique – Ingénierie de Plateforme en Biologie
+* 🎓 Master Biochimie & Biologie Moléculaire – Sorbonne Université
+* 🧪 Expérience en bioinformatique, transcriptomique et réseaux de régulation
+* 🌱 Intérêt pour la biologie végétale et le changement climatique
+* 📍 Basée à Dijon, France
+
+🔗 LinkedIn : https://www.linkedin.com/in/fatoumata-kamissoko-685706275
+
+---
+
+## 🚀 Projets principaux
+
+### 🌿 Analyse circadienne des gènes du pois
+
+📍 INRAE Dijon (Stage de Master)
+
+**Objectif :**
+Étudier l’expression rythmique des gènes du pois afin de comprendre leur rôle dans la réponse aux stress abiotiques.
+
+**Réalisations :**
+
+* Développement d’un pipeline bioinformatique sous R
+* Analyse transcriptomique circadienne (MetaCycle, Limorhyde)
+* Enrichissement fonctionnel (GO, clusterProfiler)
+* Inférence de réseaux de régulation génique (dynGENIE3)
+* Visualisation avec Cytoscape
+
+**Résultats clés :**
+
+* Identification de gènes à expression rythmique sur 24h
+* Mise en évidence de fonctions liées à la photosynthèse et au stress
+* Identification de régulateurs potentiels
+
+🛠️ Outils : R, DESeq2, MetaCycle, Cytoscape, PLAZA
+
+👉 (Ajoute ici ton repo GitHub si disponible)
+
+---
+
+### 🧬 Caractérisation des dihydrouridine synthases (Dus)
+
+📍 IBPS – Sorbonne Université
+
+**Objectif :**
+Comprendre le rôle des enzymes Dus dans la modification des ARNt chez *Saccharomyces cerevisiae*.
+
+**Réalisations :**
+
+* Clonage et expression de protéines recombinantes
+* Tests enzymatiques (activité NADPH)
+* Analyses microscopiques et cytométrie
+* Analyse bioinformatique des isoformes protéiques
+
+**Résultats :**
+
+* Mise en évidence du rôle NADPH-dépendant
+* Identification de différentes localisations cellulaires
+
+👉 (Ajoute ici ton repo ou rapport)
+
+---
+
+### 🧪 Projet protéines structurales — Institut Pasteur
+
+**Objectif :**
+Étudier les interactions protéine–protéine et caractériser la structure de protéines.
+
+**Techniques utilisées :**
+
+* SPR, BLI, ITC, RMN, DLS, CD
+* Modélisation structurale (AlphaFold, PyMOL)
+* Purification et analyse biochimique
+
+👉 (Ajoute repo ou notes si disponibles)
+
+---
+
+### 🧫 Projet R&D — Formulation de dentifrice naturel
+
+**Objectif :**
+Développer un produit à base d’ingrédients naturels avec validation scientifique.
+
+**Réalisations :**
+
+* Formulation et tests microbiologiques
+* Analyse physico-chimique (pH, viscosité…)
+* Business Model Canvas
+
+👉 (Optionnel : ajouter doc ou présentation)
+
+---
+
+## 📄 Mémoires & rapports
+
+* 📘 Mémoire Master (Algérie) :
+  https://drive.google.com/file/d/18oFcUTNGQoEh2beLl7WSbK1qUe3oUNsJ/view
+
+* 📘 Mémoire IBPS – Sorbonne :
+  https://drive.google.com/file/d/1j5VIL7htXJiz26_6-U5uv7eiQ-OBpout/view
+
+---
+
+## 🧰 Compétences
+
+### 🔬 Biologie & Omique
+
+* Transcriptomique, génomique, protéomique
+* Clonage, PCR, qPCR, ddPCR
+* Analyse multi-omique
+
+### 💻 Bioinformatique
+
+* Analyse de données omiques
+* Réseaux de régulation génique
+* Visualisation de données
+
+### 🧑‍💻 Outils & langages
+
+* R, Linux
+* Cytoscape, PyMOL, AlphaFold
+* ImageJ
+
+---
+
+## 📈 Ce que je recherche
+
+Je suis actuellement à la recherche :
+
+* 🎓 d’un doctorat en bioinformatique / biologie des systèmes
+* 🌱 projets liés à la biologie végétale et au stress environnemental
+* 🤝 collaborations en analyse de données biologiques
+
+---
+
+## 📫 Me contacter
+
+📧 Email : [fkamissoko584@gmail.com](mailto:fkamissoko584@gmail.com)
+🔗 LinkedIn : https://www.linkedin.com/in/fatoumata-kamissoko-685706275
+
+---
+
+✨ Merci pour votre visite !
