@@ -1,9 +1,9 @@
 
 Bienvenue sur mon portfolio !
 
-Je suis diplômée d’un **Master en bioinformatique (Université Paris Cité)** avec une double compétence en **biologie moléculaire** et **analyse de données omiques**.
+Je suis diplômée d’un Master en bioinformatique (Université Paris Cité) avec une double compétence en biologie moléculaire et analyse de données omiques.
 
-🎓 **Future doctorante à l’INRAE à partir de novembre 2026**.
+🎓 **Actuellement stagiaire à l’INRAE, au sein de l’équipe FILEAS**, où j'analyse des données transcriptomiques et mettre en évidence des régulateurs clés de la réponses au stress chez le pois.  
 
 🎯 **Mon objectif :** contribuer à la recherche sur les mécanismes moléculaires, notamment l’**horloge circadienne chez les plantes** et leur adaptation aux **stress environnementaux liés au changement climatique**.
 
